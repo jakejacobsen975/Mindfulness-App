@@ -11,7 +11,7 @@ Now clone or download the repository
 ```
 git clone https://github.com/jakejacobsen975/Mindfulness-App.git
 ```
-locate the file and simply drag and drop the file into the running emulator 
+locate the Mindfulness.apk file and simply drag and drop the file into the running emulator 
 ![Screenshot 2024-04-12 110140](https://github.com/jakejacobsen975/Mindfulness-App/assets/122470500/8088637a-cfa3-4329-ab5e-cac0c773bc26)
 ## mobile 
 Download the Mindfulness.apk 
